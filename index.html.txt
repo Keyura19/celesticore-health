@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CelestiCore Health</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>CelestiCore Health</h1>
+    <p>Your ultimate guide to body vitality</p>
+</header>
+<nav>
+    <ul>
+        <li><a href="head-neck.html">Head &amp; Neck</a></li>
+        <li><a href="chest.html">Chest</a></li>
+        <li><a href="back.html">Back</a></li>
+        <li><a href="arms.html">Arms</a></li>
+        <li><a href="abs.html">Abs</a></li>
+        <li><a href="legs.html">Legs</a></li>
+        <li><a href="shoulders.html">Shoulders</a></li>
+        <li><a href="glutes.html">Glutes</a></li>
+        <li><a href="calves.html">Calves</a></li>
+    </ul>
+</nav>
+<div class="container">
+    <h2>Welcome to CelestiCore Health</h2>
+    <p>At CelestiCore Health, we believe in nurturing every part of your body with the right nutrition and exercise. Explore our dedicated pages to learn how to keep each part of your body healthy, active, and strong.</p>
+    <p>Whether you're looking for dietary tips or detailed exercise routines, our comprehensive guides have you covered.</p>
+</div>
+<footer>
+    <p>&copy; 2025 CelestiCore Health. All rights reserved.</p>
+</footer>
+</body>
+</html>
